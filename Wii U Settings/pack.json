@@ -1,0 +1,10 @@
+{
+  "name": "Wii U Settings",
+  "description": "Use the Wii U settings menu music for your deck! Source: https://archive.org/details/wiiumusic/",
+  "author": "Light10198",
+  "version": "v1.0",
+  "manifest_version": 2,
+  "music": true,
+  "ignore": [],
+  "mappings": {}
+}
